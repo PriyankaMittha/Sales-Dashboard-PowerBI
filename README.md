@@ -23,7 +23,7 @@ This project presents an interactive **Sales Dashboard** built using **Power BI*
 - Excel / CSV dataset
 
 ## 🔹 Dashboard Preview
-![Sales Dashboard]([https://github.com/PriyankaMittha/Sales-Dashboard-PowerBI/blob/main/sales_dashboard_1.PNG])
+![Sales Dashboard](https://github.com/PriyankaMittha/Sales-Dashboard-PowerBI/blob/main/sales_dashboard_1.PNG)
 
 ## 🔹 How to Use
 1. Download the `.pbix` file
